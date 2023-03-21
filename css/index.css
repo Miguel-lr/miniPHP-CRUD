@@ -1,0 +1,78 @@
+body {
+ 	 
+ 	 
+	font-family: "Pokemon GB";
+	font-size: 16px;
+	margin-top:-90px;
+
+	background-image: url("../images/p1.png");
+	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+ 	background-size: 100%;
+	background-position: center bottom;
+ 		
+}
+
+
+
+h1 {
+  
+
+ 	color: #F9739F;
+	text-align:center;
+	font-family: "Pokemon Solid";
+	font-size: 100px; 
+ 	letter-spacing: 0.1em;
+ 	margin-top: 5px; 
+ 	margin-bottom: 10px; 
+
+ 	-webkit-text-stroke: 2px black;
+ 	text-stroke: 2px black;
+
+}
+
+
+
+
+   table {
+        border-collapse: collapse;
+        margin: left;
+	background-color:#F6F1F0;
+	border-radius: 8px;
+  	overflow: hidden;
+	margin-left:30px;
+
+
+      }
+   
+
+   td {
+        border: 5px solid black;
+
+	
+        padding: 15px;
+        text-align: left;
+      }
+    
+
+.titulo {
+       font-size: 40px;
+
+	text-align: center;
+
+      }
+
+
+
+
+
+
+a {
+  text-decoration: none; 
+  color: black; 
+}
+
+a:visited {
+  text-decoration: none; 
+}
+

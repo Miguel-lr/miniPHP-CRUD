@@ -1,0 +1,52 @@
+body {
+ 	background-color: black; 
+ 	color: white; 
+	font-family: "Pokemon GB";
+	font-size: 25px;
+	margin-top: 30px;
+	margin-left: 20px;
+	
+
+ 	background-image: url("../images/pokeball2.jpg");
+	background-repeat: no-repeat;
+ 	
+ 	background-attachment: fixed;
+ 	background-size: 100%;
+
+}
+
+
+table {
+ 	border-collapse: collapse;
+ 	width: 25%;
+  	margin:auto;
+  
+	border-radius: 8px;
+	overflow: hidden;
+	
+}
+
+th, td {
+  background-color: black;
+  text-align: center;
+  padding: 10px;
+  border: 6px solid white;
+  
+}
+
+th {
+  background-color: black;
+	color:white;
+	font-size: 27px;
+	
+}
+
+tr:nth-child(even) {
+  background-color: black;
+}
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+body {
+ 	
+	background-color: black; 
+ 	color: white; 
+	font-family: "Pokemon GB";
+	font-size: 25px;
+	
+	
+	
+
+ 	background-image: url("../images/snorlax.jpg");
+	background-repeat: no-repeat;
+ 	background-position: right;
+ 	background-attachment: fixed;
+ 	background-size: 100%;
+
+}
+
+
+
+
+
+
+
+table {
+        border-collapse: collapse;
+        margin-left:35px;
+ 	margin-top:250px;
+      }
+    
+
+  td {
+        
+        padding: 8px;
+        text-align: left;
+
+      }
+
+.boton {
+	
+	font-size: 25px;
+  	font-family: "Pokemon GB";
+	
+	
+}
+
+
+.regresar{
+
+font-size: 25px;
+color:white;
+
+}
+
+
+.espacio {
+
+height: 20px;
+}
+
+
+a {
+  color: #5C57B3; 
+  text-decoration: none; 
+}
+
+a:visited {
+  color: white; 
+}
+
+
+
+
+

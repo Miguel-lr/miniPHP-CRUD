@@ -1,0 +1,17 @@
+Instalar las fuentes para que se vea y reiniciar el equipo
+
+La página principal es index.php
+
+Instrucctiones:
+
+- Pedir a mama que la compre ---> Crear base de datos.
+
+- Echarse novia ---> Borrar base de datos.
+
+- Capturar Pokemono ---> Insertar valores.
+
+- Tirar a la hierba ---> Borrar filas por id.
+
+- Poner mote ---> Update en la tabla, cambia solo el nombre.
+
+- Presumir ---> Enseñar los datos de la tabla.

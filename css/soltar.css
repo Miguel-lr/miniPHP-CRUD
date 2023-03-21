@@ -1,0 +1,84 @@
+body {
+ 	background-color: black; 
+ 	color: white; 
+	font-family: "Pokemon GB";
+	font-size: 20px;
+	
+	
+	overflow: hidden;
+
+ 	background-image: url("../images/forest.png");
+	background-repeat: no-repeat;
+ 	background-position: right;
+ 	background-attachment: fixed;
+ 	background-size: 70%;
+
+}
+
+
+
+.boton {
+
+	font-size: 25px;
+  	font-family: "Pokemon GB";
+	
+}
+
+
+div {
+
+  position: absolute;
+  left: 9%;
+  transform: translate(-50%, 50%);
+  width: 200px;
+  height: 620px;
+}
+
+
+table {
+        border-collapse: collapse;
+         margin-left:35px;
+	margin-top:220px;
+	background-color:black;
+	
+      }
+     
+
+ td {
+        
+        padding: 15px;
+        text-align: left;
+      }
+
+
+.regresar{
+
+font-size: 25px;
+}
+
+
+.idb{
+
+font-size: 25px;
+}
+
+
+.espacio {
+
+height: 20px;
+}
+
+
+a {
+  color: #5C57B3; 
+  text-decoration: none; 
+}
+
+a:visited {
+  color: white; 
+}
+
+
+
+
+

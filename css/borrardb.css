@@ -1,0 +1,48 @@
+body {
+ 	
+	font-family: "Pokemon GB";
+	font-size: 20px;
+	margin-top: 30px;
+	
+	overflow: hidden;
+
+ 	background-image: url("../images/andy.jpg");
+	background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-attachment: fixed;
+ 	background-size: 100%;
+
+}
+
+
+
+
+a {
+  color: #5C57B3; 
+  text-decoration: none; 
+}
+
+a:visited {
+  color: #5C57B3; 
+}
+
+a:hover {
+  color: #741C29; 
+}
+
+a:active {
+  color: #741C29; 
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+
